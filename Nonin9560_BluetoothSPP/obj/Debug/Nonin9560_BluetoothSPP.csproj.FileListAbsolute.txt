@@ -1,0 +1,14 @@
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\Nonin9560_BluetoothSPP.dll
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\Nonin9560_BluetoothSPP.pdb
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\InTheHand.Net.Personal.dll
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\InTheHand.Net.Personal.xml
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\obj\Debug\ResolveAssemblyReference.cache
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\obj\Debug\Nonin9560_BluetoothSPP.dll
+C:\Nonin Onyx II\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\obj\Debug\Nonin9560_BluetoothSPP.pdb
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\Nonin9560_BluetoothSPP.dll
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\Nonin9560_BluetoothSPP.pdb
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\InTheHand.Net.Personal.dll
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\bin\Debug\InTheHand.Net.Personal.xml
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\obj\Debug\ResolveAssemblyReference.cache
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\obj\Debug\Nonin9560_BluetoothSPP.dll
+C:\Nonin9560_Bluetooth\Nonin9560_BluetoothSPP\obj\Debug\Nonin9560_BluetoothSPP.pdb
